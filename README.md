@@ -1,7 +1,7 @@
 ## 翻墙软件不完全收录
 
-### VPN（L2TP、IPsec）
-#### 支持：Mac、Win、Android、IOS、Linux 
+#### VPN（L2TP、IPsec）
+##### 支持：Mac、Win、Android、IOS、Linux 
 
 ### SSH
 #### 支持：Mac、Win、Linux
@@ -12,7 +12,7 @@
 ### Lantern
 #### 支持：Mac、Win
 
-###Tor
+### Tor
 #### 支持：Mac、Win、Linux
 
 #### XX-Net
