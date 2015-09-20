@@ -1,7 +1,7 @@
 ## 翻墙软件不完全收录
 
-#### VPN（L2TP、IPsec）
-##### 支持：Mac、Win、Android、IOS、Linux 
+#### VPN（L2TP、IPsec）支持：Mac、Win、Android、IOS、Linux 
+Mac上设置VPN连接 
 
 ### SSH
 #### 支持：Mac、Win、Linux
@@ -9,9 +9,14 @@
 ### Shadowsocks
 #### 支持：Mac、Win、Android
 
-### Lantern
-#### 支持：Mac、Win
-
+#### Lantern 支持：Mac、Win
+使用教程：<a href="http://hi-andy.com/index.php/2015/08/30/google-lantern/">Lantern教程</a> <br/>
+**lantern 2.0.2(已失效)**<br/> 
+~~Mac: <a href="https://github.com/it-andy-hou/fq/blob/master/lantern/lantern%202.0.2/lantern-installer-beta.dmg/">lantern-installer-beta.dmg</a>~~<br/>
+~~Win: <a href="https://github.com/it-andy-hou/fq/blob/master/lantern/lantern%202.0.2/lantern-installer-beta.exe/">lantern-installer-beta.exe</a>~~<br/> 
+**lantern 2.0.6 (20150915.042827)**<br/>
+Mac: <a href="https://github.com/it-andy-hou/fq/blob/master/lantern/lantern%202.0.6%20(20150915.042827)/lantern-installer-beta%20.dmg.zip/">lantern-installer-beta.dmg</a><br/>
+Win: <a href="https://github.com/it-andy-hou/fq/blob/master/lantern/lantern%202.0.6%20(20150915.042827)/lantern-installer-beta.exe/">lantern-installer-beta.exe</a><br/>
 ### Tor
 #### 支持：Mac、Win、Linux
 
