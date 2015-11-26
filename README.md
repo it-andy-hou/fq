@@ -22,6 +22,13 @@
 * 自由门
 * 賽風
 * Private Tunnel
+* Betternet : Unlimited Free VPN
+* Hotspot Shield Free VPN Proxy
+* SuperVPN 免费VPN客户端
+* VPN Master(Free unblock proxy)
+
+
+
 * 其他...
 
 <img src="image\ios_logo.png">
