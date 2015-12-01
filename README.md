@@ -26,6 +26,8 @@
 * Hotspot Shield Free VPN Proxy
 * SuperVPN 免费VPN客户端
 * VPN Master(Free unblock proxy)
+* Hotspot Shield Free VPN Proxy
+* 免费 无限制 VPN Proxy | Touch VPN
 * 其他...
 
 <img src="image\ios_logo.png">
