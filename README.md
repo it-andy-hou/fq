@@ -36,9 +36,14 @@ Google Play APK 下載站
 **HOLA免费VPN** <a href="https://play.google.com/store/apps/details?id=org.hola">HOLA免费VPN</a></br>
 **FlashVPN Free VPN Proxy** <a href="https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity">FlashVPN Free VPN Proxy</a></br>
 **SurfEasy Secure Android VPN** <a href="https://play.google.com/store/apps/details?id=com.surfeasy">SurfEasy Secure Android VPN</a></br>
-...
+* 其他..
 
 <img src="image\ios_logo.png"></br>
-App Store搜索"VPN" 也是有很多的
-**VPN Express**  <a href="https://itunes.apple.com/cn/app/vpn-express-best-mobile-vpn/id375584677">VPN Express</a></br>
+App Store搜索"VPN" 也是有很多的 </br>
+**VPN Express** <a href="https://itunes.apple.com/cn/app/vpn-express-best-mobile-vpn/id375584677">VPN Express</a></br>
+**VPN神器** <a href="https://itunes.apple.com/cn/app/vpn-shen-qi/id823288801">VPN神器</a></br>
+**Green VPN** <a href="https://itunes.apple.com/cn/app/greenvpn-green-wang-luo-jia/id629880524">Green VPN</a></br>
+**VPN Unlimited** <a href="https://itunes.apple.com/cn/app/vpn-unlimited-jia-mi-quan/id694633015?mt=8">VPN Unlimited</a></br>
+**VPN in touch** <a href="https://itunes.apple.com/cn/app/vpn-in-touch-for-iphone-ipad/id464241430">VPN in touch</a></br>
+**VPN Fire** <a href="https://itunes.apple.com/cn/app/vpn-fire-for-iphone-ipad-protect/id432531914">VPN Fire</a></br>
 * 其他..
