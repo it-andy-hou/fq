@@ -37,6 +37,7 @@ Google Play APK 下載站
 <a href="https://play.google.com/store/apps/details?id=org.hola">HOLA免费VPN</a></br>
 <a href="https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity">FlashVPN Free VPN Proxy</a></br>
 <a href="https://play.google.com/store/apps/details?id=com.surfeasy">SurfEasy Secure Android VPN</a></br>
+<a href="https://play.google.com/store/apps/details?id=io.hideme.android">極速VPN</a></br>
 * 其他..
 
 <img src="image\ios_logo.png"></br>
@@ -47,4 +48,5 @@ App Store搜索"VPN" 也是有很多的 </br>
 <a href="https://itunes.apple.com/cn/app/vpn-unlimited-jia-mi-quan/id694633015?mt=8">VPN Unlimited</a></br>
 <a href="https://itunes.apple.com/cn/app/vpn-in-touch-for-iphone-ipad/id464241430">VPN in touch</a></br>
 <a href="https://itunes.apple.com/cn/app/vpn-fire-for-iphone-ipad-protect/id432531914">VPN Fire</a></br>
+<a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id879905781?ls=1&mt=8">HideMe Free VPN Proxy</a></br>
 * 其他..
