@@ -16,7 +16,7 @@
 <a href="https://github.com/it-andy-hou/fq/blob/master/Mac/GoAgentX/GoAgentX-v2.3.7.dmg">GoAgentX</a> 官网 http://goagentx.com Github https://github.com/zenoven/GoAgentX</br>
 
 <img src="image\android_logo.png"></br>
-Google Play搜索 "VPN" 基本上就有很多的
+Google Play搜索 "VPN" 基本上就有很多的</br>
 Google Play APK 下載站
 * http://apps.evozi.com/apk-downloader/
 * http://apkleecher.com/
@@ -24,6 +24,7 @@ Google Play APK 下載站
 * http://apk-dl.com/
 
 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">Shadowsocks</a> </br>
+<a href="https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk">Lantern</a> 官网 https://getlantern.org/
 <a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser">自由浏览</a> Github https://github.com/greatfire/wiki</br>
 <a href="https://git.io/fgma">自由門7.57版</a> 官网 http://dongtaiwang.com/loc/phome.php?v=0</br>
 <a href="https://git.io/2S1IBQ">无界一点通</a></br>
