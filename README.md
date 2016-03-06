@@ -10,6 +10,20 @@
       <td><b>IOS</b></td>
    </tr>
    <tr>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+   </tr>
+   <tr>
+      <td>DNS</td>
+      <td>DNS</td>
+      <td>DNS</td>
+      <td>DNS</td>>
+	   <td>DNS</td>
+   </tr>
+   <tr>
       <td><a href="https://shadowsocks.com/">Shadowsocks</a></td>
       <td><a href="https://github.com/it-andy-hou/fq/blob/master/Windows/Shadowsocks/Shadowsocks-win-2.5.8.zip"> Shadowsocks-win-2.5.8 </a></td>
       <td><a href="https://github.com/it-andy-hou/fq/blob/master/Mac/Shadowsocks/ShadowsocksX-2.5.dmg"> ShadowsocksX-2.5.dmg </a></td>
@@ -21,6 +35,13 @@
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
+      <td>/</td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/yinghuocho/firefly-proxy">firefly-proxy</a></td>
+      <td><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">firefly-proxy</a></td>
+      <td><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-mac-latest.dmg?raw=true">firefly-proxy</a></td>
+      <td>/</td>
       <td>/</td>
    </tr>
    <tr>
