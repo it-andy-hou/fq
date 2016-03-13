@@ -31,6 +31,13 @@
       <td>/</td>
    </tr>
    <tr>
+   	<td> </td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td>/</td>
+   </tr>
+   <tr>
       <td><a href="https://getlantern.org/">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
