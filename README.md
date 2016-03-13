@@ -17,11 +17,11 @@
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
    </tr>
    <tr>
-      <td>DNS</td>
-      <td>DNS</td>
-      <td>DNS</td>
-      <td>DNS</td>>
-	   <td>DNS</td>
+      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
+      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
+      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
+      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
+	  <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
    </tr>
    <tr>
       <td><a href="https://shadowsocks.com/">Shadowsocks</a></td>
@@ -36,6 +36,34 @@
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td>/</td>
+   </tr>
+   <tr>
+   	  <td><a href="http://www.google.cn/intl/zh-CN/chrome/?">Chrome</a></td>
+   	  <td><a href="https://www.uproxy.org/install">uproxy</a></td>
+   	  <td><a href="https://www.uproxy.org/install">uproxy</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
+   </tr>
+   <tr>
+   	  <td> </td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/hola-unlimited-proxy-vpn/opalpjjboefohnelaemnhdhlceibbcgl">Hola - Unlimited Proxy VPN</a></td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/hola-unlimited-proxy-vpn/opalpjjboefohnelaemnhdhlceibbcgl">Hola - Unlimited Proxy VPN</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
+   </tr>
+   <tr>
+   	  <td> </td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/geoproxy-vpn/bohjiepdaibaajbeedilfpdniijmmccf">Geoproxy Vpn</a></td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/geoproxy-vpn/bohjiepdaibaajbeedilfpdniijmmccf">Geoproxy Vpn</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
+   </tr>
+      <tr>
+   	  <td> </td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/browsec-vpn-web/eoeecjmgnmpnljngnagabdpmahamaaoh">Browsec Vpn Web</a></td>
+   	  <td><a href="https://chrome.google.com/webstore/detail/browsec-vpn-web/eoeecjmgnmpnljngnagabdpmahamaaoh">Browsec Vpn Web</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
    </tr>
    <tr>
       <td><a href="https://github.com/yinghuocho/firefly-proxy">firefly-proxy</a></td>
@@ -147,8 +175,14 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://play.google.com/store/apps/details?id=io.hideme.android">極速VPN</a></td>
-      <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id879905781?ls=1&mt=8">HideMe Free VPN Proxy</a></td>
-      
+      <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id879905781?ls=1&mt=8">HideMe Free VPN Proxy</a></td>    
+   </tr>
+   <tr>
+   	  <td><a href="https://github.com/UnsignedInt8/LightSword">LightSword</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
+   	  <td>/</td>
+   	  <td><a href="https://github.com/UnsignedInt8/LightSword">LightSword</a></td>
    </tr>
    <tr>
       <td>VPN Express</td>
