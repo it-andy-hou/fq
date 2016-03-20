@@ -180,7 +180,7 @@
    <tr>
       <td><a href="http://www.hideme.io/">極速VPN</a></td>
       <td>/</td>
-      <td>/</td>
+      <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id1084098222?ls=1&mt=12"></a></td>
       <td><a href="https://play.google.com/store/apps/details?id=io.hideme.android">極速VPN</a></td>
       <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id879905781?ls=1&mt=8">HideMe Free VPN Proxy</a></td>    
    </tr>
