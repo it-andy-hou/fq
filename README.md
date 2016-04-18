@@ -1,5 +1,5 @@
 ## 翻墙软件不完全收录
-因为软件不定期更新，已官网网站为准
+# <a href="http://fq.hi-andy.com/">fq.hi-andy.com</a>
 
 <table>
    <tr>
