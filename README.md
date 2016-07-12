@@ -1,6 +1,5 @@
 ## 翻墙软件不完全收录
 ### <a href="http://fq.hi-andy.com">http://fq.hi-andy.com</a>
-### <a href="http://andyhou.coding.me/FQ-Software-collection/">http://andyhou.coding.me/FQ-Software-collection/</a>
 
 <table>
    <tr>
