@@ -124,6 +124,13 @@
       <td>/</td>
    </tr>
    <tr>
+      <td>Snap VPN</td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href="https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro">Snap VPN</a></td>
+      <td>/</td>
+   </tr>
+   <tr>
       <td>SuperVPN </td>
       <td>/</td>
       <td>/</td>
