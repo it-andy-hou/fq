@@ -13,22 +13,24 @@
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
+      <td><a href="https://github.com/racaljk/hosts">hosts</a><br>
+      <a href="https://play.google.com/store/apps/details?id=com.lerist.ghosts
+      ">一键 Go Hosts</a></td>
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
    </tr>
    <tr>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-	  <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
+      <td><a href="http://puredns.cn/">DNS</a></td>
+      <td><a href="http://puredns.cn/">DNS</a></td>
+      <td><a href="http://puredns.cn/">DNS</a></td>
+      <td><a href="http://puredns.cn/">DNS</a></td>
+	  <td><a href="http://puredns.cn/">DNS</a></td>
    </tr>
    <tr>
       <td><a href="https://shadowsocks.com/">Shadowsocks</a></td>
-      <td><a href="https://github.com/it-andy-hou/fq/blob/master/Windows/Shadowsocks/Shadowsocks-win-2.5.8.zip"> Shadowsocks-win-2.5.8 </a></td>
-      <td><a href="https://github.com/it-andy-hou/fq/blob/master/Mac/Shadowsocks/ShadowsocksX-2.5.dmg"> ShadowsocksX-2.5.dmg </a></td>
+      <td><a href="https://shadowsocks.com/client.html"> Shadowsocks</a></td>
+      <td><a href="https://shadowsocks.com/client.html"> ShadowsocksX</a></td>
       <td><a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">Shadowsocks </a></td>
-      <td>/</td>
+      <td><a href="https://itunes.apple.com/cn/app/wingy-free-proxy-utility-for/id1148026741?mt=8">Wingy</a></td>
    </tr>
    <tr>
    	<td> </td>
@@ -43,6 +45,13 @@
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
       <td>/</td>
+   </tr>
+   <tr>
+   	  <td><a href="https://github.com/XX-net/XX-Net">XX-net</a></td>
+   	  <td><a href="https://github.com/XX-net/XX-Net/blob/master/code/default/download.md">XX-Net</a></td>
+   	  <td><a href="https://github.com/XX-net/XX-Net/blob/master/code/default/download.md">XX-Net</a></td>
+   	  <td>/</td>
+   	  <td>/</td>
    </tr>
    <tr>
    	  <td><a href="http://www.google.cn/intl/zh-CN/chrome/?">Chrome</a></td>
@@ -197,7 +206,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-express-best-mobile-vpn/id375584677">VPN Express</a></td>
-      
+
    </tr>
    <tr>
       <td>VPN神器</td>
@@ -205,7 +214,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-shen-qi/id823288801">VPN神器</a></td>
-      
+
    </tr>
    <tr>
       <td>Green VPN</td>
@@ -213,7 +222,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/greenvpn-green-wang-luo-jia/id629880524">Green VPN</a></td>
-      
+
    </tr>
    <tr>
       <td>VPN Unlimited</td>
@@ -221,7 +230,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-unlimited-jia-mi-quan/id694633015?mt=8">VPN Unlimited</a></td>
-      
+
    </tr>
    <tr>
       <td>VPN in touch</td>
@@ -229,7 +238,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-in-touch-for-iphone-ipad/id464241430">VPN in touch</a></td>
-      
+
    </tr>
    <tr>
       <td>VPN Fire</td>
@@ -237,7 +246,7 @@
       <td>/</td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-fire-for-iphone-ipad-protect/id432531914">VPN Fire</a></td>
-      
+
    </tr>
    <tr>
       <td></td>
