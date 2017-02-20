@@ -194,6 +194,20 @@
       <td>/</td>
    </tr>
    <tr>
+      <td>极光VPN</td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href="https://play.google.com/store/apps/details?id=cn.jiguang.gp">极光VPN</a></td>
+      <td>/</td>
+   </tr>
+   <tr>
+      <td>Yoga Free VPN</td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.yogavpn">Yoga Free VPN</a></td>
+      <td>/</td>
+   </tr>
+   <tr>
       <td><a href="http://www.hideme.io/">極速VPN</a></td>
       <td>/</td>
       <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id1084098222?ls=1&mt=12"></a></td>
