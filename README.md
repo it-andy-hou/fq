@@ -15,7 +15,8 @@
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
       <td><a href="https://github.com/racaljk/hosts">hosts</a><br>
       <a href="https://play.google.com/store/apps/details?id=com.lerist.ghosts
-      ">一键 Go Hosts</a></td>
+      ">一键 Go Hosts</a><br>
+      <a href="https://github.com/HostsTools/Android">AndroidGoogleHost</a></td>
       <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
    </tr>
    <tr>
