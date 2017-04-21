@@ -269,8 +269,37 @@
       <td>/</td>
       <td><a href="https://itunes.apple.com/cn/app/vpn-fire-for-iphone-ipad-protect/id432531914">VPN Fire</a></td>
 
+</table>
+
+## 翻墙回国内软件
+<table>
+   <tr>
+      <td><b>程序\官网\系统</b></td>
+      <td><b>windows</b></td>
+      <td><b>MacOS</b></td>
+      <td><b>Android</b></td>
+      <td><b>IOS</b></td>
    </tr>
    <tr>
-      <td></td>
+      <td><a href="https://shadowsocks.com/">Shadowsocks</a></td>
+      <td><a href="https://shadowsocks.com/client.html"> Shadowsocks</a></td>
+      <td><a href="https://shadowsocks.com/client.html"> ShadowsocksX</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">Shadowsocks </a></td>
+      <td><a href="https://itunes.apple.com/cn/app/wingy-free-proxy-utility-for/id1148026741?mt=8">Wingy</a></td>
    </tr>
-</table>
+   <tr>
+   	<td> </td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td>/</td>
+   </tr>   
+
+
+
+
+
+
+
+
+
