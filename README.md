@@ -294,7 +294,13 @@
    	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
    	<td>/</td>
    </tr>   
-
+    <tr>
+      <td>快帆</td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href="https://play.google.com/store/apps/details?id=in.invpn">快帆</a></td>
+      <td>/</td>
+   </tr>
 
 
 
