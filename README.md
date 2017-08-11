@@ -35,9 +35,12 @@
    </tr>
    <tr>
    	<td> </td>
+   	<!-- <td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
    	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
-   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
-   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
+   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td> -->
+         <td><a href="https://github.com/shadowsocksr-backup/shadowsocksr"> ShadowsocksR </a></td>
+         <td><a href="https://github.com/shadowsocksr-backup/shadowsocksr"> ShadowsocksR </a></td>
+         <td><a href="https://github.com/shadowsocksr-backup/shadowsocksr"> ShadowsocksR </a></td>            
    	<td>/</td>
    </tr>
    <tr>
