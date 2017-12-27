@@ -1,5 +1,4 @@
-## 翻墙软件不完全收录
-因为软件不定期更新，已官网网站为准
+## :earth_americas: :statue_of_liberty: 翻墙软件不完全收录
 
 <table>
    <tr>
