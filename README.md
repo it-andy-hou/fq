@@ -9,13 +9,13 @@
 |       Shadowsocks        |        [shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)         |        [ ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS/releases)         |         [shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)        |    [shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help) <br>  [Wingy](https://itunes.apple.com/cn/app/wingy-free-proxy-utility-for/id1148026741?mt=8)            |                |
 |       Shadowsocksr          |       [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)          |        [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)         |         [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)       |        [shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help)          |       [Shadowsocks 免费帐号](https://clients.getss.org/)          |
 |        lantern         |       [lantern](https://getlantern.org)          |         [lantern](https://getlantern.org)         |        [lantern](https://play.google.com/store/apps/details?id=org.getlantern.lantern)         |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |                 |
+|        XX-Net         |         [XX-Net](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md)          |         [XX-Net](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md)        |                 |                 |       [XX-Net ](https://github.com/XX-net/XX-Net)          |
+|       firefly-proxy          |         [firefly-proxy](https://github.com/yinghuocho/firefly-proxy)        |         [firefly-proxy](https://github.com/yinghuocho/firefly-proxy)        |                 |                 |                 |
+|         无界浏览        |       [无界浏览](http://www.wujieliulan.com/news.php)          |                 |       [无界浏览](http://www.wujieliulan.com/news.php)           |                 |                 |
+|         自由門        |         [自由門专业版](https://git.io/fgp)        |                 |       [自由門](https://git.io/fgma)          |                 |                 |
+|        psiphon3         |         [psiphon3](https://psiphon3.com/psiphon3.exe)        |                 |                 |                 |                 |
+|        VPN Gate Client         |        [VPN Gate Client](http://www.vpngate.net/cn/download.aspx)         |                 |                 |                 |                 |
+|        GoAgentXGoAgentX         |                 |       [GoAgentXGoAgentX](https://github.com/chenowen/GoAgentX-1)          |                 |                 |                 |
 
 
 
