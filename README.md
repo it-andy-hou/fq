@@ -1,9 +1,10 @@
 ## :earth_americas: :statue_of_liberty: 翻墙软件不完全收录
-> 排名不分先后，软件更新见官网
+> 排名不分先后，软件更新见官网.
+[]()
 
 | 程序\官网\系统 | Windows  | MacOS | Android | IOS | 教程 |
 | :------------: |:------------|:------------|:------------|:------------|:------------|
-|   hosts   |       [Google hosts](https://github.com/racaljk/hosts)          |         [Google hosts](https://github.com/racaljk/hosts)          |        [Google hosts](https://github.com/racaljk/hosts)           |        [Google hosts](https://github.com/racaljk/hosts)           |        [各平台 hosts 文件位置](https://github.com/racaljk/hosts/wiki/%E5%90%84%E5%B9%B3%E5%8F%B0-hosts-%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE) <br> [wiki](https://zh.wikipedia.org/zh-cn/Hosts%E6%96%87%E4%BB%B6)         |
+|   hosts   |       [Google hosts](https://github.com/racaljk/hosts) <br>  [老D host](https://laod.cn/hosts/2017-google-hosts.html)         |         [Google hosts](https://github.com/racaljk/hosts)  <br>  [老D host](https://laod.cn/hosts/2017-google-hosts.html)         |        [Google hosts](https://github.com/racaljk/hosts) <br>   [一键 Go Hosts](https://play.google.com/store/apps/details?id=com.lerist.ghosts)  <br>  [AndroidGoogleHost](https://github.com/HostsTools/Android) <br>  [老D host](https://laod.cn/hosts/2017-google-hosts.html)  |        [Google hosts](https://github.com/racaljk/hosts)  <br>  [老D host](https://laod.cn/hosts/2017-google-hosts.html)         |        [各平台 hosts 文件位置](https://github.com/racaljk/hosts/wiki/%E5%90%84%E5%B9%B3%E5%8F%B0-hosts-%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE) <br> [wiki](https://zh.wikipedia.org/zh-cn/Hosts%E6%96%87%E4%BB%B6)         |
 |                 |                 |                 |                 |                 |                 |
 |                 |                 |                 |                 |                 |                 |
 |                 |                 |                 |                 |                 |                 |
