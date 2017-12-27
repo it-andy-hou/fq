@@ -1,20 +1,20 @@
 ## :earth_americas: :statue_of_liberty: 翻墙软件不完全收录
 > 排名不分先后，软件更新见官网
 
-| 程序\官网\系统 | Windows  | MacOS | Android | IOS | 
-| :------------ |:------------|:------------|:------------|:------------|
-|   Hosts   |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
-|                 |                 |                 |                 |                 |
+| 程序\官网\系统 | Windows  | MacOS | Android | IOS | 教程 |
+| :------------: |:------------|:------------|:------------|:------------|:------------|
+|   hosts   |       [Google hosts](https://github.com/racaljk/hosts)          |         [Google hosts](https://github.com/racaljk/hosts)          |        [Google hosts](https://github.com/racaljk/hosts)           |        [Google hosts](https://github.com/racaljk/hosts)           |        [各平台 hosts 文件位置](https://github.com/racaljk/hosts/wiki/%E5%90%84%E5%B9%B3%E5%8F%B0-hosts-%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE) [wiki](https://zh.wikipedia.org/zh-cn/Hosts%E6%96%87%E4%BB%B6)         |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
+|                 |                 |                 |                 |                 |                 |
 
 
 
