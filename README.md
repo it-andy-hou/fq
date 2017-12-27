@@ -23,7 +23,7 @@
 | 程序| 官网\系统 | 
 | :------------ |:------------|
 |   Hosts   | ~~[2017hosts](https://github.com/wangchunming/2017hosts)~~ |
-
+|   DNS   | ~~[pandaDNS](http://dns.sspanda.com/)~~ <br> ~~[puredns](http://puredns.cn/)~~ <br> ~~HelloDNS~~ |
 
 
 
