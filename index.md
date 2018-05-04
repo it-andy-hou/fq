@@ -13,7 +13,7 @@
 |       firefly-proxy          |         [firefly-proxy](https://github.com/yinghuocho/firefly-proxy)        |         [firefly-proxy](https://github.com/yinghuocho/firefly-proxy)        |        [萤火虫](https://play.google.com/store/apps/details?id=org.gofirefly.android.vpn)         |        [尼马代理](https://itunes.apple.com/cn/app/%E5%B0%BC%E9%A9%AC%E4%BB%A3%E7%90%86/id1260125306?mt=8)         |                 |
 |         无界浏览        |       [无界浏览](http://www.wujieliulan.com/news.php)          |                 |       [无界浏览](http://www.wujieliulan.com/news.php)           |                 |                 |
 |         自由門        |         [自由門专业版](https://git.io/fgp)        |                 |       [自由門](https://git.io/fgma)          |                 |                 |
-|        psiphon3         |         [psiphon3](https://psiphon3.com/psiphon3.exe)        |                 |                 |                 |                 |
+|        赛风         |         [psiphon3](https://psiphon3.com/zh/download.html)        |                 |         [Psiphon Pro](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)        |        [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8)         |           [用户指南](https://psiphon3.com/zh/user-guide.html)           |
 |        VPN Gate Client         |        [VPN Gate Client](http://www.vpngate.net/cn/download.aspx)         |                 |                 |                 |                 |
 |        GoAgentXGoAgentX         |                 |       [GoAgentXGoAgentX](https://github.com/chenowen/GoAgentX-1)          |                 |                 |                 |
 
