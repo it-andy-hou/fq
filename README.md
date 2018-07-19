@@ -1,245 +1,36 @@
-## 翻墙软件不完全收录
-### <a href="http://fq.hi-andy.com">http://fq.hi-andy.com</a>
+##  翻墙软件不完全收录
+> 排名不分先后，软件更新见官网.
 
-<table>
-   <tr>
-      <td><b>程序\官网\系统</b></td>
-      <td><b>windows</b></td>
-      <td><b>MacOS</b></td>
-      <td><b>Android</b></td>
-      <td><b>IOS</b></td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-      <td><a href="https://github.com/racaljk/hosts">hosts</a></td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-      <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-	  <td><a href="https://github.com/zyqf/DNS">DNS</a></td>
-   </tr>
-   <tr>
-      <td><a href="https://shadowsocks.com/">Shadowsocks</a></td>
-      <td><a href="https://github.com/it-andy-hou/fq/blob/master/Windows/Shadowsocks/Shadowsocks-win-2.5.8.zip"> Shadowsocks-win-2.5.8 </a></td>
-      <td><a href="https://github.com/it-andy-hou/fq/blob/master/Mac/Shadowsocks/ShadowsocksX-2.5.dmg"> ShadowsocksX-2.5.dmg </a></td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks">Shadowsocks </a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-   	<td> </td>
-   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
-   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
-   	<td><a href="https://github.com/breakwa11/shadowsocks-rss"> ShadowsocksR </a></td>
-   	<td>/</td>
-   </tr>
-   <tr>
-      <td><a href="https://getlantern.org/">Lantern</a></td>
-      <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
-      <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
-      <td><a href="https://github.com/getlantern/lantern/releases/tag/latest">Lantern</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-   	  <td><a href="http://www.google.cn/intl/zh-CN/chrome/?">Chrome</a></td>
-   	  <td><a href="https://www.uproxy.org/install">uproxy</a></td>
-   	  <td><a href="https://www.uproxy.org/install">uproxy</a></td>
-   	  <td>/</td>
-   	  <td>/</td>
-   </tr>
-   <tr>
-   	  <td> </td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/hola-unlimited-proxy-vpn/opalpjjboefohnelaemnhdhlceibbcgl">Hola - Unlimited Proxy VPN</a></td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/hola-unlimited-proxy-vpn/opalpjjboefohnelaemnhdhlceibbcgl">Hola - Unlimited Proxy VPN</a></td>
-   	  <td>/</td>
-   	  <td>/</td>
-   </tr>
-   <tr>
-   	  <td> </td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/geoproxy-vpn/bohjiepdaibaajbeedilfpdniijmmccf">Geoproxy Vpn</a></td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/geoproxy-vpn/bohjiepdaibaajbeedilfpdniijmmccf">Geoproxy Vpn</a></td>
-   	  <td>/</td>
-   	  <td>/</td>
-   </tr>
-      <tr>
-   	  <td> </td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/browsec-vpn-web/eoeecjmgnmpnljngnagabdpmahamaaoh">Browsec Vpn Web</a></td>
-   	  <td><a href="https://chrome.google.com/webstore/detail/browsec-vpn-web/eoeecjmgnmpnljngnagabdpmahamaaoh">Browsec Vpn Web</a></td>
-   	  <td>/</td>
-   	  <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/yinghuocho/firefly-proxy">firefly-proxy</a></td>
-      <td><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-win-latest.zip?raw=true">firefly-proxy</a></td>
-      <td><a href="https://github.com/yinghuocho/download/blob/master/firefly-proxy-mac-latest.dmg?raw=true">firefly-proxy</a></td>
-      <td>/</td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="http://www.wujieliulan.com/news.php">无界浏览</a></td>
-      <td><a href="https://git.io/HNvvvQ">无界浏览</a></td>
-      <td>/</td>
-      <td><a href="https://git.io/2S1IBQ">无界一点通</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="http://dongtaiwang.com/loc/phome.php?v=0">自由門</a></td>
-      <td><a href="https://git.io/fgp">自由門专业版</a></td>
-      <td>/</td>
-      <td><a href="https://git.io/fgma">自由門</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="https://psiphon3.com/zh/index.html">psiphon3</a></td>
-      <td><a href="https://psiphon3.com/psiphon3.exe">psiphon3.exe</a></td>
-      <td>/</td>
-      <td><a href="https://psiphon3.com/PsiphonAndroid.apk">psiphon3.exe</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="http://www.vpngate.net/cn/">VPN Gate Client</a></td>
-      <td><a href="http://www.vpngate.net/cn/download.aspx">VPN Gate Client</a></td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/zenoven/">GoAgentXGoAgentX</a></td>
-      <td>/</td>
-      <td><a href="https://github.com/it-andy-hou/fq/blob/master/Mac/GoAgentX/GoAgentX-v2.3.7.dmg">GoAgentX-v2.3.7.dmg</a></td>
-      <td>/</td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>SuperVPN </td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree">SuperVPN 免费VPN客户端</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>VPN Master</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnmaster">VPN Master</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>Hotspot Shield </td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=hotspotshield.android.vpn">Hotspot Shield Free VPN Proxy</td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>Cloud VPN </td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=net.bypass.vpn">Cloud VPN (Free & Unlimited)</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>Touch VPN</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.northghost.touchvpn">Touch VPN</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>TunnelBear VPN</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.tunnelbear.android">TunnelBear VPN</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>HOLA</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=org.hola">HOLA免费VPN</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>FlashVPN</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity">FlashVPN Free VPN Proxy</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td>SurfEasy Secure</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.surfeasy">SurfEasy Secure Android VPN</a></td>
-      <td>/</td>
-   </tr>
-   <tr>
-      <td><a href="http://www.hideme.io/">極速VPN</a></td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id1084098222?ls=1&mt=12"></a></td>
-      <td><a href="https://play.google.com/store/apps/details?id=io.hideme.android">極速VPN</a></td>
-      <td><a href="https://itunes.apple.com/us/app/hideme-free-vpn-proxy-unlimited/id879905781?ls=1&mt=8">HideMe Free VPN Proxy</a></td>    
-   </tr>
-   <tr>
-   	  <td><a href="https://github.com/UnsignedInt8/LightSword">LightSword</a></td>
-   	  <td>/</td>
-   	  <td>/</td>
-   	  <td>/</td>
-   	  <td><a href="https://github.com/UnsignedInt8/LightSword">LightSword</a></td>
-   </tr>
-   <tr>
-      <td>VPN Express</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/vpn-express-best-mobile-vpn/id375584677">VPN Express</a></td>
-      
-   </tr>
-   <tr>
-      <td>VPN神器</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/vpn-shen-qi/id823288801">VPN神器</a></td>
-      
-   </tr>
-   <tr>
-      <td>Green VPN</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/greenvpn-green-wang-luo-jia/id629880524">Green VPN</a></td>
-      
-   </tr>
-   <tr>
-      <td>VPN Unlimited</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/vpn-unlimited-jia-mi-quan/id694633015?mt=8">VPN Unlimited</a></td>
-      
-   </tr>
-   <tr>
-      <td>VPN in touch</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/vpn-in-touch-for-iphone-ipad/id464241430">VPN in touch</a></td>
-      
-   </tr>
-   <tr>
-      <td>VPN Fire</td>
-      <td>/</td>
-      <td>/</td>
-      <td>/</td>
-      <td><a href="https://itunes.apple.com/cn/app/vpn-fire-for-iphone-ipad-protect/id432531914">VPN Fire</a></td>
-      
-   </tr>
-   <tr>
-      <td></td>
-   </tr>
-</table>
+
+
+|  程序\官网\系统  |                           Windows                            |                            MacOS                             |                           Android                            |                             IOS                              |                             教程                             |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|      hosts       | [Google hosts](https://github.com/racaljk/hosts) <br>  [老D host](https://laod.cn/hosts/) | [Google hosts](https://github.com/racaljk/hosts)  <br>  [老D host](https://laod.cn/hosts/) | [Google hosts](https://github.com/racaljk/hosts) <br>   [一键 Go Hosts](https://play.google.com/store/apps/details?id=com.lerist.ghosts)  <br>  [AndroidGoogleHost](https://github.com/HostsTools/Android) <br>  [老D host](https://laod.cn/hosts/) | [Google hosts](https://github.com/racaljk/hosts)  <br>  [老D host](https://laod.cn/hosts/) | [各平台 hosts 文件位置](https://github.com/racaljk/hosts/wiki/%E5%90%84%E5%B9%B3%E5%8F%B0-hosts-%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE) <br> [wiki](https://zh.wikipedia.org/zh-cn/Hosts%E6%96%87%E4%BB%B6) |
+|       DNS        |                [PdoMo-DNS](https://pdomo.me/)                |                [PdoMo-DNS](https://pdomo.me/)                |                [PdoMo-DNS](https://pdomo.me/)                |                [PdoMo-DNS](https://pdomo.me/)                | [dnsmasq](https://github.com/infinet/dnsmasq) <br> [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) |
+|   Shadowsocks    | [shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases) | [ ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS/releases) | [shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks) | [shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help) <br>  [Wingy](https://itunes.apple.com/cn/app/wingy-free-proxy-utility-for/id1148026741?mt=8) |                                                              |
+|   Shadowsocksr   | [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) | [shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help) |      [Shadowsocks 免费帐号](https://clients.getss.org/)      |
+|      brook       |         [brook](https://github.com/txthinking/brook)         |         [brook](https://github.com/txthinking/brook)         |         [brook](https://github.com/txthinking/brook)         | [brook](https://itunes.apple.com/us/app/brook-brook-shadowsocks-vpn-proxy/id1216002642) |    [brook wiki](https://github.com/txthinking/brook/wiki)    |
+|     lantern      |              [lantern](https://getlantern.org)               |              [lantern](https://getlantern.org)               | [lantern](https://play.google.com/store/apps/details?id=org.getlantern.lantern) |                                                              |                                                              |
+|      CoNET       | [CoNET](https://github.com/QTGate/QTGate-Desktop-Client/releases) | [CoNET](https://github.com/QTGate/QTGate-Desktop-Client/releases) |   [CoNET](https://github.com/QTGate/CoNETPlatform-Android)   |                                                              |                                                              |
+|      XX-Net      | [XX-Net](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md) | [XX-Net](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md) |  [Xndroid](https://github.com/XndroidDev/Xndroid/releases)   |                                                              |         [XX-Net ](https://github.com/XX-net/XX-Net)          |
+|  firefly-proxy   | [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) | [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) | [萤火虫](https://play.google.com/store/apps/details?id=org.gofirefly.android.vpn) | [尼马代理](https://itunes.apple.com/cn/app/%E5%B0%BC%E9%A9%AC%E4%BB%A3%E7%90%86/id1260125306?mt=8) |                                                              |
+|     无界浏览     |       [无界浏览](http://www.wujieliulan.com/news.php)        |                                                              |       [无界浏览](http://www.wujieliulan.com/news.php)        |                                                              |                                                              |
+|      自由門      |              [自由門专业版](https://git.io/fgp)              |                                                              |                [自由門](https://git.io/fgma)                 |                                                              |                                                              |
+|       赛风       |      [psiphon3](https://psiphon3.com/zh/download.html)       |                                                              | [Psiphon Pro](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) | [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) |     [用户指南](https://psiphon3.com/zh/user-guide.html)      |
+| VPN Gate Client  |  [VPN Gate Client](http://www.vpngate.net/cn/download.aspx)  |                                                              |                                                              |                                                              |                                                              |
+| GoAgentXGoAgentX |                                                              |  [GoAgentXGoAgentX](https://github.com/chenowen/GoAgentX-1)  |                                                              |                                                              |                                                              |
+
+
+
+### 失效
+| 程序| 官网\系统 |
+| :------------ |:------------|
+|   Hosts   | ~~[2017hosts](https://github.com/wangchunming/2017hosts)~~ |
+|   DNS   | ~~[pandaDNS](http://dns.sspanda.com/)~~ <br> ~~[puredns](http://puredns.cn/)~~ <br> ~~HelloDNS~~ |
+
+
+
+
+
+
+
